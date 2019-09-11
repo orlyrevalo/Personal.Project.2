@@ -1,0 +1,7 @@
+In Python you can make lists.
+In Python you can make dictionaires.
+In Python you can make variables.
+In Python you can make exceptions.
+In Python you can make tuples.
+In Python you can make while loops.
+In Python you can make if-elif-else statements.
